@@ -1,1 +1,0 @@
-﻿Console.WriteLine("Hello my name is Dersim.");
