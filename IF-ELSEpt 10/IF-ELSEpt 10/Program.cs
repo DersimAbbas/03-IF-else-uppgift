@@ -38,7 +38,7 @@
         }                                                                                                             
         else
         {
-            Console.WriteLine("error please put invalid number");
+            Console.WriteLine("error please answer with either c or f");
         }
     
     
